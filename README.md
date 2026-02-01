@@ -1,6 +1,6 @@
 # Agentic RAG
 
-A lightweight Agentic Retrieval-Augmented Generation (RAG) system that answers questions strictly from your uploaded documents.
+A lightweight Agentic Retrieval-Augmented Generation (RAG) system that answers questions from your uploaded documents.
 
 Tech stack:
 - FastAPI (backend API)
